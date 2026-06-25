@@ -1,8 +1,11 @@
 # Scanalytix
 
 > **Course:** Data Science Programming
+
 > **Lecturer:** Bakti Siregar, M.Sc., CDS.
+
 > **Institution:** Bandung Institute of Science and Technology (ITSB)
+
 > **Group:** 6 — Information Systems Study Program
 
 ---
