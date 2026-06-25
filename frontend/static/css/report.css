@@ -1,0 +1,31 @@
+/* Report page polish. Loader is intentionally inline so sidebar stays visible. */
+.report-loading-cover {
+    position: relative !important;
+    inset: auto !important;
+    z-index: 1 !important;
+    margin: 12px 0 22px !important;
+    min-height: 260px !important;
+    width: 100% !important;
+    border-radius: 26px !important;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:center !important;
+    gap:16px !important;
+    backdrop-filter: blur(1px) !important;
+}
+.report-loading-cover .loading-title {
+    font-size: 19px !important;
+    font-weight: 950 !important;
+}
+.report-loading-cover .loading-subtitle {
+    opacity:.88 !important;
+}
+.download-card {
+    transform: translateZ(0);
+}
+.download-card h3,
+.download-card p,
+.download-card .tiny {
+    position: relative !important;
+    z-index: 1 !important;
+}

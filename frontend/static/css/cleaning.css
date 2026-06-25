@@ -1,0 +1,87 @@
+/* Data Cleaning UI — V45 look, V49 smooth hover/click support */
+.clean-table {
+    width: 100% !important;
+    border-collapse: separate !important;
+    border-spacing: 0 !important;
+    table-layout: fixed !important;
+    margin: 0 0 10px 0 !important;
+    overflow: hidden !important;
+    border-radius: 16px !important;
+    border: 1px solid var(--clean-table-border) !important;
+    background: var(--clean-table-bg) !important;
+}
+.clean-table th {
+    padding: 14px 16px !important;
+    text-align: left !important;
+    background: var(--clean-table-head) !important;
+    color: var(--clean-table-text) !important;
+    font-size: 14px !important;
+    font-weight: 950 !important;
+    letter-spacing: .45px !important;
+    border-bottom: 1px solid var(--clean-table-border) !important;
+}
+.clean-table td {
+    padding: 15px 16px !important;
+    vertical-align: middle !important;
+    color: var(--clean-table-text) !important;
+    font-size: 14.5px !important;
+    font-weight: 850 !important;
+    border-top: 1px solid var(--clean-table-border) !important;
+    background: var(--clean-table-cell) !important;
+}
+.clean-table td span,
+.clean-table td div,
+.clean-table td p {
+    color: inherit !important;
+    opacity: 1 !important;
+}
+.clean-table td span[style*="var(--muted)"],
+.clean-table td[style*="var(--muted)"] {
+    color: var(--clean-table-muted) !important;
+    font-weight: 850 !important;
+    opacity: 1 !important;
+}
+.clean-table.clean-row-table {
+    cursor: pointer !important;
+    transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease, background .16s ease !important;
+}
+.clean-table.clean-row-table:hover {
+    transform: translateY(-1px) !important;
+    box-shadow: var(--shadow) !important;
+    border-color: var(--accent) !important;
+}
+.clean-table.clean-row-table:hover td {
+    background: var(--panel-2) !important;
+}
+.op-badge {
+    display: inline-flex !important;
+    border-radius: 12px !important;
+    padding: 7px 12px !important;
+    background: var(--clean-chip-bg) !important;
+    color: var(--clean-chip-text) !important;
+    border: 1px solid var(--clean-table-border) !important;
+    font-size: 13.5px !important;
+    font-weight: 950 !important;
+    box-shadow: 0 8px 18px rgba(0,0,0,.10) !important;
+}
+.badge {
+    display: inline-flex !important;
+    border-radius: 999px !important;
+    padding: 8px 12px !important;
+    background: rgba(6,182,212,.14) !important;
+    color: var(--clean-chip-text) !important;
+    border: 1px solid rgba(34,211,238,.30) !important;
+    font-weight: 950 !important;
+    font-size: 12px !important;
+}
+.section-chip {
+    opacity: 1 !important;
+    letter-spacing: .55px !important;
+}
+.impact-high { color: var(--red) !important; font-weight: 950 !important; }
+.impact-medium { color: var(--amber) !important; font-weight: 950 !important; }
+.impact-low { color: var(--green) !important; font-weight: 950 !important; }
+.status-card {
+    font-weight: 900 !important;
+    line-height: 1.7 !important;
+}

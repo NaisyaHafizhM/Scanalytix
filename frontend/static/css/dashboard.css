@@ -1,0 +1,19 @@
+/* Dashboard-specific polish separated from app.py */
+.pf-col-icon { display:none !important; }
+.pf-stat-mini,
+.pf-kpi-card,
+.metric-card,
+.report-stat,
+.insight-mini {
+    overflow:hidden !important;
+}
+.pf-stat-mini .pf-stat-label,
+.pf-kpi-lbl,
+.metric-label,
+.report-stat .lbl {
+    text-shadow:none !important;
+}
+.ts-chart-spacer { height:72px !important; }
+[data-testid="stPlotlyChart"] {
+    margin-top: 10px !important;
+}
