@@ -1,5 +1,7 @@
 # Scanalytix
 
+https://groupsix.streamlit.app/
+
 > **Course:** Data Science Programming
 
 > **Lecturer:** Bakti Siregar, M.Sc., CDS.
