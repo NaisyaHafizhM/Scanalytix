@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Auto EDA Insight Dashboard
 
 > **Mata Kuliah:** Data Science Programming 
