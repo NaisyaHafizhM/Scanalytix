@@ -178,7 +178,13 @@ Automatically generates insights based on:
 ## Interface
 
 * Dark Mode (Purple/Violet theme)
+
+  <img width="955" height="498" alt="image" src="https://github.com/user-attachments/assets/92766415-2e74-4c9d-a3b2-2aadbc4904bf" />
+
 * Light Mode (Sage Green theme)
+
+  <img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/1585112e-f3e6-415f-a6c0-0ff7ace59fb5" />
+
 * Collapsible sidebar navigation
 * Interactive Plotly visualizations
 
