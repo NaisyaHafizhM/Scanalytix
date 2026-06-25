@@ -1,4 +1,4 @@
-# Scanalytix 🔍📊
+# Scanalytix
 
 > **Course:** Data Science Programming
 > **Lecturer:** Bakti Siregar, M.Sc., CDS.
