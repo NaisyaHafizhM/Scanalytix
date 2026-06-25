@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto EDA Insight Dashboard
 
 > **Mata Kuliah:** Data Science Programming 
@@ -269,3 +270,7 @@ Auto_EDA_Insight/
 ---
 
 *Auto EDA Insight Dashboard — Proyek Akhir Semester 2 UAS Data Science Programming · ITSB · 2026*
+=======
+# Scanalytix
+Your data health scanner, automatically exploring datasets and uncovering meaningful insights.
+>>>>>>> 5f140292cd915171f672d850c26b818ec1b37413
