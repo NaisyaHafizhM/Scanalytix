@@ -6,7 +6,7 @@
 
 > **Institution:** Bandung Institute of Science and Technology (ITSB)
 
-> **Group:** 6 — Information Systems Study Program
+> **Group:** 6 
 
 ---
 
